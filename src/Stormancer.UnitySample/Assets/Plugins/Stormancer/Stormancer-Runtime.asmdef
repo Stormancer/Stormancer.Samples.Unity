@@ -1,0 +1,17 @@
+{
+    "name": "Stormancer-Runtime",
+    "references": [
+        "GUID:9cb54f46101bb3741a410f2eba5c0d02",
+        "GUID:a44f47cf3ada4435dbc516bad0bc86fe",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

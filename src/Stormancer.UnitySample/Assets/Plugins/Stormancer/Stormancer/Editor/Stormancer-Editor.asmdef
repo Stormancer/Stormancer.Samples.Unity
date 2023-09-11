@@ -1,0 +1,17 @@
+{
+    "name": "Stormancer-Editor",
+    "references": [
+        "GUID:aa9c3f07c623eab4aa39b6982c9ce544"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
