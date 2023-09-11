@@ -1,0 +1,9 @@
+{
+  "includePrereleases": true,
+  "packageSources": [
+    "https://api.nuget.org/v3/index.json"
+  ],
+  "plugins": {
+    "Stormancer.Management.CLI": "0.6.2"
+  }
+}

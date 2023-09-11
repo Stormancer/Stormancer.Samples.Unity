@@ -1,0 +1,24 @@
+{
+  "auth": {
+    "ephemeral": {
+      "enabled": true
+    }
+  },
+  "elasticsearch": {
+    "connectionPools": {
+      "default": {
+        "Sniffing": false,
+        "Endpoints": [
+          "https://127.0.0.1:9200"
+        ],
+        "IgnoreCertificateErrors": true,
+        "Credentials": {
+          "Basic": {
+            "Login": REDACTED,
+            "Password": REDACTED
+          }
+        }
+      }
+    }
+  }
+}

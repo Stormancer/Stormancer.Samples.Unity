@@ -1,0 +1,13 @@
+{
+    "Cluster": "stormancer-dev",
+    "Account": "Stormancer.Samples.Unity",
+    "App": "dev",
+    "Config": {
+        "Type": "file",
+        "Value": "configs/sample-default.json"
+    },
+    "Deployment": {
+        "Type": "directory",
+        "Value": "../src/Stormancer.Samples.Unity.Server"
+    }
+}
